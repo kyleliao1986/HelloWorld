@@ -13,5 +13,6 @@
 {
     NSLog(@"test extend");
     NSLog(@"test git");
+    NSLog(@"test");
 }
 @end

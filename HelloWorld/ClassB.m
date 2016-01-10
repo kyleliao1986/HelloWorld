@@ -12,5 +12,6 @@
 -(void) testFileopdD:(NSString *)file
 {
     NSLog(@"test extend");
+    NSLog(@"test git");
 }
 @end

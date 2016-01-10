@@ -14,6 +14,5 @@
     NSLog(@"test extend");
     NSLog(@"test git");
     NSLog(@"test");
-    NSLog(@"test git push");
 }
 @end
